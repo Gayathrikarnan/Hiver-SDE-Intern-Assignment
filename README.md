@@ -18,7 +18,7 @@ This project implements an AI-powered customer support agent for Spotify using h
 The system takes a new customer message and:
 
 - Identifies the customer's intent.
-- Finds similar historical Spotify support cases.
+- Finds similar historical Spotify support cases. 
 - Generates a draft response based on previous Spotify responses.
 - Decides whether the case can be auto-handled or should be escalated to a human.
 - Provides the reason for the escalation decision.
